@@ -1,5 +1,12 @@
 # bmjpngViewer
 A picture viewer for psvita 
+----------------------------------------------------------------------------------------
+to build this you have to install vdpm first.
+1. install vdpm.  reference:  https://github.com/vitasdk/vdpm
+2. after installed vdpm, to build  "ComicViewer.vpk" just make.
+3. copy ComicViewer.vpk to PSVita and install ComicViewer.vpk.
+Enjoy!
+----------------------------------------------------------------------------------------
 
 一个简单的看图程序。
 1. 在ux0:data/comic目录下，建立目录，然后把图片放进里面，就可以进入bmjpngViewer对图片进行查看了。
